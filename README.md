@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/EMAIL-C5FF6B?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email"/>
 </a>
 &nbsp;
-<a href="https://github.com/ReSets">
+<a href="https://github.com/klesofmaen-glitch">
   <img src="https://img.shields.io/badge/GITHUB-C5FF6B?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub"/>
 </a>
 
