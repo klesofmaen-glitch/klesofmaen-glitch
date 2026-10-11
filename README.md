@@ -45,7 +45,7 @@ $ echo $PHILOSOPHY
 
 ### `03 / projects`
 
-- **[PROJECT_01](https://github.com/klesofmaen-glitch/gentoo-niri-build)** — `Your description here`
+- **[niri Dot files ](https://github.com/klesofmaen-glitch/gentoo-niri-build)** — `Your description here`
 - **[PROJECT_02](https://github.com/ReSets)** — `Something experimental`
 
 ### `04 / github stats`
