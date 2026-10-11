@@ -4,9 +4,21 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=800&color=C5FF6B&center=true&vCenter=true&width=500&lines=Linux+%26+Open+Source+enthusiast;Building.+Breaking.+Learning.;Exploring+the+system+from+within." />
 
-[![Telegram](https://img.shields.io/badge/Telegram-0D1117?style=flat-square&logo=telegram&logoColor=C5FF6B)](https://t.me/linux0nly)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=C5FF6B)](mailto:resetsgitmes@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=C5FF6B)](https://github.com/ReSets)
+<div align="center">
+
+<a href="https://t.me/linux0nly">
+  <img src="https://img.shields.io/badge/TELEGRAM-C5FF6B?style=for-the-badge&logo=telegram&logoColor=0D1117" alt="Telegram"/>
+</a>
+&nbsp;
+<a href="mailto:resetsgitmes@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-C5FF6B?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://github.com/ReSets">
+  <img src="https://img.shields.io/badge/GITHUB-C5FF6B?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub"/>
+</a>
+
+</div>
 
 </div>
 
