@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:101510,50:19291D,100:0D1117&text=YOUR_USERNAME&fontColor=C5FF6B&fontSize=48&fontAlignY=40&desc=OPEN%20SOURCE%20%2F%20LINUX%20%2F%20EXPERIMENTS&descAlignY=62&descSize=12&animation=fadeIn&section=header" alt="Profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:101510,50:19291D,100:0D1117&text=ReSets&fontColor=C5FF6B&fontSize=48&fontAlignY=40&desc=OPEN%20SOURCE%20%2F%20LINUX%20%2F%20EXPERIMENTS&descAlignY=62&descSize=12&animation=fadeIn&section=header" alt="Profile banner"/>
 
 <br/>
 
