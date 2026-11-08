@@ -16,7 +16,7 @@
   &nbsp;·&nbsp;
   <a href="mailto:resetsgitmes@gmail.com">EMAIL</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/ReSets">GITHUB</a>
+
 </p>
 
 ---
