@@ -1,69 +1,115 @@
-<div align="center">
+ <!-- ReSets / Personal Archive -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:101510,100:19291D&text=ReSets&fontColor=C5FF6B&fontSize=55&fontAlignY=45&animation=fadeIn&desc=LINUX%20%2F%20OPEN%20SOURCE%20%2F%20EXPERIMENTS&descSize=11&descAlignY=70" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+    <img src="assets/hero-light.svg" alt="ReSets — Personal Archive" width="100%">
+  </picture>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=800&color=C5FF6B&center=true&vCenter=true&width=500&lines=Linux+%26+Open+Source+enthusiast;Building.+Breaking.+Learning.;Exploring+the+system+from+within." />
+<p align="center">
+  <sub>INDEPENDENT DEVELOPER · LINUX ENTHUSIAST · DIGITAL EXPERIMENTER</sub>
+</p>
 
-<div align="center">
-
-<a href="https://t.me/linux0nly">
-  <img src="https://img.shields.io/badge/TELEGRAM-C5FF6B?style=for-the-badge&logo=telegram&logoColor=0D1117" alt="Telegram"/>
-</a>
-&nbsp;
-<a href="mailto:resetsgitmes@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-C5FF6B?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://github.com/klesofmaen-glitch">
-  <img src="https://img.shields.io/badge/GITHUB-C5FF6B?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub"/>
-</a>
-
-</div>
-
-</div>
+<p align="center">
+  <a href="https://t.me/linux0nly">TELEGRAM</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:resetsgitmes@gmail.com">EMAIL</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/ReSets">GITHUB</a>
+</p>
 
 ---
 
-### `01 / whoami`
+## 01 — INTRODUCTION
 
-**EN** — Linux enthusiast exploring open source, system customization and unconventional ideas.
+### Привет, я ReSets.
 
-**RU** — Энтузиаст Linux, исследую Open Source, кастомизацию систем и необычные идеи.
+Я люблю исследовать технологии, экспериментировать с необычными решениями и создавать собственные цифровые продукты.
 
-```bash
-$ echo $PHILOSOPHY
-"Understand. Experiment. Create."
+Меня привлекает не только то, как работают технологии, но и то, что можно построить с их помощью.
+
+Мой основной интерес — Linux, Open Source, искусственный интеллект, разработка программного обеспечения и создание необычных интерфейсов.
+
+> Мне нравится не просто пользоваться готовыми решениями. Мне нравится разбираться, как они устроены, менять их под себя и создавать что-то своё.
+
+---
+
+## 02 — AREAS OF INTEREST
+
+| Направление | Что меня интересует |
+|:--|:--|
+| `LINUX` | Gentoo, Linux ecosystem, system customization |
+| `DESKTOP` | Niri, Wayland, terminal aesthetics, ricing |
+| `OPEN SOURCE` | Open-source software, community projects |
+| `AI` | AI agents, OpenCode, AI-assisted development |
+| `WEB` | Experimental interfaces, UI/UX, digital products |
+| `CREATIVE` | Unusual concepts, independent projects, design experiments |
+
+---
+
+## 04 — TOOLBOX
+
+**OPERATING SYSTEMS**
+
+Linux · Gentoo · Wayland
+
+**DESKTOP ENVIRONMENT**
+
+Hyprland · Kitty
+
+**DEVELOPMENT & AI**
+
+OpenCode · AI Agents · Git
+
+**CREATIVE TOOLS**
+
+SVG · Markdown · UI/UX Design
+
+*The toolbox is constantly evolving.*
+
+---
+
+## 05 — CURRENTLY EXPLORING
+
+```text
+[01] Exploring the Linux ecosystem
+[02] Experimenting with AI-assisted development
+[03] Building independent digital products
+[04] Designing unusual user interfaces
+[05] Learning by breaking and rebuilding things
 ```
 
-### `02 / toolbox`
+---
 
-<div align="center">
+## 06 — PERSONAL PHILOSOPHY
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,python,vim&theme=dark" />
+- Curiosity over routine.
+- Understanding over blindly following instructions.
+- Experimentation over conventional solutions.
+- Open Source over unnecessary restrictions.
+- Building over just talking about ideas.
 
-</div>
+---
 
-### `03 / projects`
+## 07 — CONNECT
 
-- **[niri Dot files ](https://github.com/klesofmaen-glitch/gentoo-niri-build)** — `Your description here`
-- **[hyprland Dot files ](https://github.com/klesofmaen-glitch/hyprland-build-2.0)** — `Something experimental`
+Есть интересная идея, проект или просто желание обсудить технологии?
 
-### `04 / github stats`
+Буду рад знакомству.
 
-<div align="center">
+<p align="center">
+  <a href="https://t.me/linux0nly">TELEGRAM ↗</a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="mailto:resetsgitmes@gmail.com">EMAIL ↗</a>
+</p>
 
-<img height="145" src="https://github-readme-stats.vercel.app/api?username=ReSets&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C5FF6B&text_color=B0B8C0&icon_color=C5FF6B&hide_title=false" />
+---
 
-<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReSets&layout=compact&hide_border=true&bg_color=0D1117&title_color=C5FF6B&text_color=B0B8C0" />
+<p align="center">
+  <sub>DESIGNED WITH CURIOSITY · POWERED BY EXPERIMENTATION</sub>
+</p>
 
-</div>
-
-<div align="center">
-
-**OPEN MINDS. OPEN CODE. OPEN SOURCE.**
-
-<sub>EN — Keep exploring. · RU — Продолжай исследовать.</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:19291D,100:0D1117&section=footer" />
-
-</div>
+<p align="center">
+  <sub>© 2026 RESETS — PERSONAL DIGITAL ARCHIVE</sub>
+</p>
