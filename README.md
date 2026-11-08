@@ -34,17 +34,18 @@
 > Мне нравится не просто пользоваться готовыми решениями. Мне нравится разбираться, как они устроены, менять их под себя и создавать что-то своё.
 
 ---
-
-## 02 — AREAS OF INTEREST
-
-| Направление | Что меня интересует |
-|:--|:--|
-| `LINUX` | Gentoo, Linux ecosystem, system customization |
-| `DESKTOP` | Niri, Wayland, terminal aesthetics, ricing |
-| `OPEN SOURCE` | Open-source software, community projects |
-| `AI` | AI agents, OpenCode, AI-assisted development |
-| `WEB` | Experimental interfaces, UI/UX, digital products |
-| `CREATIVE` | Unusual concepts, independent projects, design experiments |
+## 02 / INTEREST MAP
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="assets/ecosystem-dark.svg"
+  >
+  <img
+    src="assets/ecosystem-light.svg"
+    alt="ReSets Interest Map"
+    width="100%"
+  >
+</picture>
 
 ---
 
