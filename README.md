@@ -48,7 +48,7 @@
 
 ---
 
-## 04 — TOOLBOX
+## TOOLBOX
 
 **OPERATING SYSTEMS**
 
@@ -56,7 +56,7 @@ Linux · Gentoo · Wayland
 
 **DESKTOP ENVIRONMENT**
 
-Hyprland · Kitty
+Niri · Kitty
 
 **DEVELOPMENT & AI**
 
@@ -70,7 +70,7 @@ SVG · Markdown · UI/UX Design
 
 ---
 
-## 05 — CURRENTLY EXPLORING
+## CURRENTLY EXPLORING
 
 ```text
 [01] Exploring the Linux ecosystem
@@ -82,7 +82,7 @@ SVG · Markdown · UI/UX Design
 
 ---
 
-## 06 — PERSONAL PHILOSOPHY
+## PERSONAL PHILOSOPHY
 
 - Curiosity over routine.
 - Understanding over blindly following instructions.
@@ -92,7 +92,7 @@ SVG · Markdown · UI/UX Design
 
 ---
 
-## 07 — CONNECT
+## CONNECT
 
 Есть интересная идея, проект или просто желание обсудить технологии?
 
